@@ -1,0 +1,11 @@
+insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port) values(10001,'USD','INR',65,0);
+insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port) values(10002,'EUR','INR',75,0);
+insert into exchange_value(id,currency_from,currency_to,conversion_multiple,port) values(10003,'AUD','INR',25,0);
+insert into currencycode(id, code) values(1, 'USD');
+insert into currencycode(id, code) values(2, 'JPY');
+insert into currencycode(id, code) values(3, 'EUR');
+insert into currencycode(id, code) values(4, 'AUD');
+insert into currencycode(id, code) values(5, 'SGD');
+insert into currencycode(id, code) values(6, 'GBP');
+insert into currencycode(id, code) values(7, 'NYD');
+insert into currencycode(id, code) values(8, 'CNY');

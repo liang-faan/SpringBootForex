@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "forex-service.ribbon.listOfServers",
+  "type": "java.lang.String",
+  "description": "A description for 'forex-service.ribbon.listOfServers'"
+}]}
